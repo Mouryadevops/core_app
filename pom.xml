@@ -42,7 +42,7 @@
       <layout>legacy</layout>
     </snapshotRepository>
   </distributionManagement>
-</project>
+
 
 
  <build>
