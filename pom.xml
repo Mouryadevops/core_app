@@ -26,7 +26,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  distributionManagement>
+   <distributionManagement>
     <repository>
       <uniqueVersion>false</uniqueVersion>
       <id>corp1</id>
